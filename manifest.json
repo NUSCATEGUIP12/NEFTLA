@@ -1,0 +1,15 @@
+{
+  "name": "NEFSTREAM HUB",
+  "short_name": "NEFSTREAM",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://drive.google.com/uc?export=view&id=142KevUEC7hkjIpG4LfLtHuaT7Hy-x9Bo",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
